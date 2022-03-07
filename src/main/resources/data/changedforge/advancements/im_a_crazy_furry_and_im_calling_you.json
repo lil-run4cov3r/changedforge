@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "changedforge:saaa"
+    },
+    "title": {
+      "translate": "advancements.im_a_crazy_furry_and_im_calling_you.title"
+    },
+    "description": {
+      "translate": "advancements.im_a_crazy_furry_and_im_calling_you.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "im_a_crazy_furry_and_im_calling_you": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "mod_elements": [
+    {
+      "name": "Furr",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr"
+    },
+    {
+      "name": "FurrOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_ore"
+    },
+    {
+      "name": "FurrBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_block"
+    },
+    {
+      "name": "FurrOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_ore_block_recipe"
+    },
+    {
+      "name": "FurrBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_block_ore_recipe"
+    },
+    {
+      "name": "FurrOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_ore_smelting"
+    },
+    {
+      "name": "FurrRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furr_recipe"
+    },
+    {
+      "name": "FurrsuitArmor",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furrsuit_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FurrsuitArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furrsuit_armor_helmet_recipe"
+    },
+    {
+      "name": "FurrsuitArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furrsuit_armor_body_recipe"
+    },
+    {
+      "name": "FurrsuitArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furrsuit_armor_leggings_recipe"
+    },
+    {
+      "name": "FurrsuitArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furrsuit_armor_boots_recipe"
+    },
+    {
+      "name": "Furry",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furry"
+    },
+    {
+      "name": "Bandu",
+      "type": "painting",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bandu"
+    },
+    {
+      "name": "Saaa",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saaa"
+    },
+    {
+      "name": "ImACrazyFurryAndImCallingYou",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_a_crazy_furry_and_im_calling_you"
+    },
+    {
+      "name": "FurriesPickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_pickaxe"
+    },
+    {
+      "name": "FurriesAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_axe"
+    },
+    {
+      "name": "FurriesSword",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_sword"
+    },
+    {
+      "name": "FurriesShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_shovel"
+    },
+    {
+      "name": "FurriesHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_hoe"
+    },
+    {
+      "name": "FurriesPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_pickaxe_recipe"
+    },
+    {
+      "name": "FurriesAxeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_axe_recipe"
+    },
+    {
+      "name": "FurriesSwordRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_sword_recipe"
+    },
+    {
+      "name": "FurriesShovelRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_shovel_recipe"
+    },
+    {
+      "name": "FurriesHoeRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furries_hoe_recipe"
+    },
+    {
+      "name": "YouGoodFam",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_good_fam"
+    },
+    {
+      "name": "BootsWithTheFurr",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boots_with_the_furr"
+    },
+    {
+      "name": "Flufff",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flufff"
+    },
+    {
+      "name": "WeWontBeNeedingThose",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "we_wont_be_needing_those"
+    },
+    {
+      "name": "FunnyFUrry",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funny_f_urry"
+    },
+    {
+      "name": "ATrueFurry",
+      "type": "achievement",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_true_furry"
+    },
+    {
+      "name": "IMa",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_ma",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Armor",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eh",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eh",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Meow",
+      "type": "painting",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meow"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.im_a_crazy_furry_and_im_calling_you.title": "Im A Crazy Furry And Im Calling You",
+      "advancements.a_true_furry.title": "A True Furry",
+      "advancements.boots_with_the_furr.title": "Boots With The Furr",
+      "block.changedforge.furr_block": "Block of Furr",
+      "advancements.funny_f_urry.descr": "wear a fursuit head",
+      "item.changedforge.furries_pickaxe": "Furries Pickaxe",
+      "item.changedforge.saaa": "Saaa",
+      "item.changedforge.furrsuit_armor_leggings": "Furrsuit Leggings",
+      "advancements.we_wont_be_needing_those.title": "We Wont Be Needing Those",
+      "item.changedforge.furrsuit_armor_helmet": "Furrsuit Helmet",
+      "advancements.we_wont_be_needing_those.descr": "Wear furry leggings",
+      "advancements.boots_with_the_furr.descr": "wear furry boots",
+      "item.changedforge.furries_shovel": "Furries Shovel",
+      "advancements.funny_f_urry.title": "Funny Furry",
+      "item.changedforge.furrsuit_armor_chestplate": "Furrsuit Chestplate",
+      "itemGroup.tabfurry": "Furry",
+      "advancements.you_good_fam.descr": "Craft a furry hoe",
+      "block.changedforge.furr_ore": "Furr Ore",
+      "item.changedforge.furries_axe": "Furries Axe",
+      "advancements.you_good_fam.title": "You Good Fam?",
+      "item.changedforge.furries_sword": "Furries Sword",
+      "advancements.flufff.descr": "Wear Furry Chestplate",
+      "item.changedforge.furrsuit_armor_boots": "Furrsuit Boots",
+      "item.changedforge.furr": "Furr",
+      "advancements.flufff.title": "Flufff",
+      "advancements.im_a_crazy_furry_and_im_calling_you.descr": "Wear the full fursuit",
+      "item.changedforge.furries_hoe": "Furries Hoe",
+      "advancements.a_true_furry.descr": "Wear the full furry set"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "changedforge",
+    "modName": "Changedforge",
+    "version": "1.0.0",
+    "author": "falls, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.changedforge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

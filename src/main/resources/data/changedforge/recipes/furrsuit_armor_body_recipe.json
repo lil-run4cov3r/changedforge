@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "changedforge:furr"
+    },
+    "2": {
+      "item": "changedforge:furr"
+    },
+    "3": {
+      "item": "changedforge:furr"
+    },
+    "4": {
+      "item": "changedforge:furr"
+    },
+    "5": {
+      "item": "changedforge:furr"
+    },
+    "6": {
+      "item": "changedforge:furr"
+    },
+    "7": {
+      "item": "changedforge:furr"
+    },
+    "8": {
+      "item": "changedforge:furr"
+    }
+  },
+  "result": {
+    "item": "changedforge:furrsuit_armor_chestplate",
+    "count": 1
+  }
+}

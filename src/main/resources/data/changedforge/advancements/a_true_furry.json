@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "changedforge:saaa"
+    },
+    "title": {
+      "translate": "advancements.a_true_furry.title"
+    },
+    "description": {
+      "translate": "advancements.a_true_furry.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_true_furry": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "changedforge:im_a_crazy_furry_and_im_calling_you"
+}

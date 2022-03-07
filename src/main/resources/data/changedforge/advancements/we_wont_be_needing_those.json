@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "changedforge:furrsuit_armor_leggings"
+    },
+    "title": {
+      "translate": "advancements.we_wont_be_needing_those.title"
+    },
+    "description": {
+      "translate": "advancements.we_wont_be_needing_those.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "we_wont_be_needing_those": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "changedforge:im_a_crazy_furry_and_im_calling_you"
+}

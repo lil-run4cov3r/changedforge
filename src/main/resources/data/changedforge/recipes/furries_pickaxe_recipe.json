@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "changedforge:furr"
+    },
+    "1": {
+      "item": "changedforge:furr"
+    },
+    "2": {
+      "item": "changedforge:furr"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "changedforge:furries_pickaxe",
+    "count": 1
+  }
+}

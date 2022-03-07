@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "changedforge:furr_block"
+    }
+  ],
+  "result": {
+    "item": "changedforge:furr",
+    "count": 9
+  }
+}

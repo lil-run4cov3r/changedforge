@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Furry",
+    "icon": {
+      "value": "CUSTOM:Furr"
+    },
+    "showSearch": true
+  }
+}

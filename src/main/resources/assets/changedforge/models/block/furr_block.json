@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "changedforge:blocks/furr_ore_block",
+    "particle": "changedforge:blocks/furr_ore_block"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "changedforge:furrsuit_armor_boots"
+    },
+    "title": {
+      "translate": "advancements.boots_with_the_furr.title"
+    },
+    "description": {
+      "translate": "advancements.boots_with_the_furr.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "boots_with_the_furr": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "changedforge:im_a_crazy_furry_and_im_calling_you"
+}

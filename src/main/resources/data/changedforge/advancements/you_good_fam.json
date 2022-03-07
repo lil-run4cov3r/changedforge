@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "changedforge:furries_hoe"
+    },
+    "title": {
+      "translate": "advancements.you_good_fam.title"
+    },
+    "description": {
+      "translate": "advancements.you_good_fam.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "you_good_fam": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "changedforge:im_a_crazy_furry_and_im_calling_you"
+}

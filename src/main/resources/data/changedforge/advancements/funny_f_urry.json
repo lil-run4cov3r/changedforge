@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "changedforge:furrsuit_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.funny_f_urry.title"
+    },
+    "description": {
+      "translate": "advancements.funny_f_urry.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "funny_f_urry": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "changedforge:im_a_crazy_furry_and_im_calling_you"
+}
