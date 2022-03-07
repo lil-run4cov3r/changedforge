@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "012"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:feather"
     },
-    "1": {
+    {
       "item": "minecraft:feather"
     },
-    "2": {
+    {
       "item": "minecraft:feather"
     }
-  },
+  ],
   "result": {
     "item": "changedforge:furr",
     "count": 1
